@@ -46,7 +46,11 @@ Collaborative Development 🤝: Using Git for version control and working effici
 ---
 
 🌟 My Projects
-I’ve worked on various projects, from simple UI components to full-fledged applications. Check out my work here:
+
+I’ve worked on various projects, from simple UI components to full-fledged applications. 
+
+Check out my work here:
+
 🔗 GitHub Portfolio:https://github.com/Gaurikhune2701
 
 ---
@@ -57,8 +61,11 @@ I'm diving deeper into advanced React features like hooks, context API, and perf
 ---
 
 📫 Let’s Connect!
+
 💼 LinkedIn: www.linkedin.com/in/gauri-khune-928aa4202
+
 📧 Email: gaurikhune890@gmail.com
+
 I’m always excited to collaborate on new projects, contribute to open-source, and connect with fellow developers. Let’s build something awesome together! 🚀
 
 
