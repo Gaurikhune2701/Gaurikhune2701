@@ -24,9 +24,21 @@ I enjoy solving problems, optimizing performance, and staying up-to-date with th
 🚀 What I Do
 I specialize in:
 Front-End Magic ✨: Building intuitive, dynamic, and responsive UIs with React.js, HTML5, CSS3, and Bootstrap.
+
+---
+
 Back-End Development 🌱: Creating powerful APIs and server-side applications using Node.js and Express.js.
+
+---
+
 Database Management 🐢: Designing efficient NoSQL databases with MongoDB to store and manage data effectively.
+
+---
+
 Performance Optimization ⚙️: Ensuring smooth and fast user experiences by optimizing code and assets.
+
+---
+
 Collaborative Development 🤝: Using Git for version control and working efficiently in team environments.
 
 ---
