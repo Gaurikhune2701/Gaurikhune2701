@@ -6,9 +6,7 @@
 ---
 
 ## 💡 About Me  
-I'm a MERN Stack Developer with a passion for crafting interactive, responsive, and user-friendly web applications. My expertise lies in React.js for front-end development, while I leverage Node.js and Express.js to build scalable server-side applications. I love solving problems, optimizing web performance, and continuously learning new technologies.
-
-I enjoy solving problems, optimizing performance, and staying up-to-date with the latest web technologies.  
+I'm a MERN Stack Developer with a passion for crafting interactive, responsive, and user-friendly web applications. My expertise lies in React.js for front-end development, while I leverage Node.js and Express.js to build scalable server-side applications. I love solving problems, optimizing web performance, and continuously learning new technologies.I enjoy solving problems, optimizing performance, and staying up-to-date with the latest web technologies.  
 
 ---
 
