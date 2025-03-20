@@ -22,7 +22,9 @@ I enjoy solving problems, optimizing performance, and staying up-to-date with th
 ---
 
 🚀 What I Do
+
 I specialize in:
+
 Front-End Magic ✨: Building intuitive, dynamic, and responsive UIs with React.js, HTML5, CSS3, and Bootstrap.
 
 
