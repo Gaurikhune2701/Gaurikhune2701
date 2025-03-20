@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gauri Khune  
+ 👋 Hi, I'm Gauri Khune  
 
 🚀 **MERN Stack Developer | Front-End Specialist (React.js)**  
 🎨 **Passionate UI Developer | Figma Enthusiast**  
